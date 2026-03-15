@@ -1,3 +1,7 @@
+# v2.4.2
+
+* Compatibility for 2.2081
+
 # v2.4.1
 
 * Added Auto Clicker keybind.
