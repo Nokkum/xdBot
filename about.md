@@ -37,3 +37,14 @@
 * Thanks to ReplayBot for being open source and letting me steal the code for the renderer.
 
 * Thanks to CatXus and Aadam_yes for helping me test the early android versions.
+
+
+## Original Links
+
+* https://github.com/ZiLko/xdBot - Github
+* https://discord.gg/w6yvdzVzBd - Discord Community
+
+
+### Updater and Maintainer
+
+* Nokkum / Rystiesu - Geometry Dash
